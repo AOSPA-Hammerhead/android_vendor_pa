@@ -27,18 +27,30 @@
         "target_path":  "hardware/qcom/display",
         "repository":   "AOSPA-Hammerhead/android_hardware_qcom_display",
         "remote":       "github",
-        "revision":     "pie-aosp"
+        "revision":     "pie-8974"
+    },
+    {
+        "target_path":  "hardware/qcom/gps",
+        "repository":   "AOSPA-Hammerhead/android_hardware_qcom_gps",
+        "remote":       "github",
+        "revision":     "pie"
     },
     {
         "target_path":  "hardware/qcom/keymaster",
         "repository":   "AOSPA-Hammerhead/android_hardware_qcom_keymaster",
         "remote":       "github",
-        "revision":     "pie-aosp"
+        "revision":     "pie"
     },
     {
         "target_path":  "hardware/qcom/media",
         "repository":   "AOSPA-Hammerhead/android_hardware_qcom_media",
         "remote":       "github",
         "revision":     "pie-aosp"
+    },
+    {
+        "target_path":  "hardware/qcom/power",
+        "repository":   "AOSPA-Hammerhead/android_hardware_qcom_power",
+        "remote":       "github",
+        "revision":     "pie"
     }
 ]
