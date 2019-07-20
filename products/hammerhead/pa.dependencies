@@ -18,6 +18,12 @@
         "revision":     "pie"
     },
     {
+        "target_path":  "hardware/broadcom/wlan",
+        "repository":   "AOSPA-Hammerhead/android_hardware_broadcom_wlan",
+        "remote":       "github",
+        "revision":     "pie"
+    },
+    {
         "target_path":  "hardware/qcom/audio",
         "repository":   "AOSPA-Hammerhead/android_hardware_qcom_audio",
         "remote":       "github",
